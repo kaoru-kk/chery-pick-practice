@@ -2,3 +2,4 @@ a.txt
 4(this commit isnt obtain other branch)
 5(this commit isnt obtain other branch)
 6(this commit isnt obtain other branch)
+7(this commit isnt obtain other branch)
